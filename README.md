@@ -1,6 +1,9 @@
 # Dayz-Multi-Tool-In-Powershell
 
+
 <hr/>
+
+[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=490&height=60&lines=DROPD3ADS+Dayz+Modz+%2B+CODE+DEVELOPMENT%C2%A9)](https://git.io/typing-svg)
 
 Simple Script to Run Several Useful Dayz Related Tools
 
